@@ -20,7 +20,7 @@ def run():
     result = foreign_exchange_calculator(ammount)
     
     print('${} dollars is equal to {} soles'.format(ammount,result))
-    print(" ")
+    print(" Thank you ")
 if __name__ == '__main__':
     
     run()  
